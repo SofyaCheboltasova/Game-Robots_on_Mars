@@ -1,0 +1,100 @@
+{
+	"BUILD_DIR" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/lab3_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/sofya/CLionProjects/lab3",
+	"CMAKE_EXECUTABLE" : "C:/Users/sofya/Desktop/CLion 2020.2.1/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/sofya/CLionProjects/lab3",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/sofya/CLionProjects/lab3/GameView/GraphicView.h",
+			"MU",
+			"FDXBD6VMU3/moc_GraphicView.cpp"
+		],
+		[
+			"C:/Users/sofya/CLionProjects/lab3/Robot/Collector.h",
+			"MU",
+			"NE7JED4YAW/moc_Collector.cpp"
+		],
+		[
+			"C:/Users/sofya/CLionProjects/lab3/Robot/Sapper.h",
+			"MU",
+			"NE7JED4YAW/moc_Sapper.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/lab3_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/lab3_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0601",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Qt/6.2.1/mingw81_64/include/QtWidgets",
+		"C:/Qt/6.2.1/mingw81_64/include",
+		"C:/Qt/6.2.1/mingw81_64/include/QtCore",
+		"C:/Qt/6.2.1/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/6.2.1/mingw81_64/include/QtGui",
+		"C:/Program Files/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"C:/Program Files/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"C:/Program Files/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"C:/Program Files/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"C:/Program Files/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"C:/Program Files/mingw-w64/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Program Files/mingw-w64/mingw64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Users/sofya/Desktop/CLion 2020.2.1/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/lab3_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/CMakeFiles/lab3_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.2.1/mingw81_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.2.1/mingw81_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 2,
+	"SETTINGS_FILE" : "C:/Users/sofya/CLionProjects/lab3/cmake-build-debug/CMakeFiles/lab3_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "C:/Users/sofya/CLionProjects/lab3/GameView/GraphicView.cpp", "MU" ],
+		[ "C:/Users/sofya/CLionProjects/lab3/Robot/Collector.cpp", "MU" ],
+		[ "C:/Users/sofya/CLionProjects/lab3/Robot/Sapper.cpp", "MU" ],
+		[ "C:/Users/sofya/CLionProjects/lab3/main.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

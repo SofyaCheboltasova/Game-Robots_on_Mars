@@ -1,0 +1,5 @@
+"C:\Users\sofya\Desktop\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=C:\Qt\6.2.1\mingw81_64\lib\cmake -G "CodeBlocks - MinGW Makefiles" C:\Users\sofya\CLionProjects\lab3
+-- Found SFML 2.5.1 in C:/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sofya/CLionProjects/lab3/cmake-build-debug
